@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ontap
 {
-    public partial class Form1 : Form
+    public partial class cau1 : Form
     {
-        public Form1()
+        public cau1()
         {
             InitializeComponent();
         }

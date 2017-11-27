@@ -1,9 +1,13 @@
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\bin\Debug\ontap.exe.config
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\bin\Debug\ontap.exe
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\bin\Debug\ontap.pdb
-D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.csprojResolveAssemblyReference.cache
-D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.Form1.resources
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.Properties.Resources.resources
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.csproj.GenerateResource.Cache
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.exe
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.pdb
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.cau1.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.SinhVienC2.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.DangNhap.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.MonHoc.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.csprojResolveAssemblyReference.cache
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.Diem.resources
