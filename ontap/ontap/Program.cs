@@ -16,7 +16,7 @@ namespace ontap
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SinhVienC2());
+            Application.Run(new Diem());
         }
     }
 }

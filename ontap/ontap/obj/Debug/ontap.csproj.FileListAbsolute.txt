@@ -9,5 +9,8 @@ D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.cau1.resources
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.SinhVienC2.resources
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.DangNhap.resources
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.MonHoc.resources
-D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.csprojResolveAssemblyReference.cache
 D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.Diem.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.ThongKe.resources
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\RdlCompile.cache
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\RdlCompile.compiled
+D:\hoctap\de-cuong-thi-thuc-hanh-C#\ontap\ontap\obj\Debug\ontap.csprojResolveAssemblyReference.cache

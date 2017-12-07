@@ -43,9 +43,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Courier New", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(236, 50);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(11, 13);
+            this.label1.Size = new System.Drawing.Size(19, 20);
             this.label1.TabIndex = 1;
             this.label1.Text = "*";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -60,7 +61,7 @@
             this.btnhienthi.UseVisualStyleBackColor = true;
             this.btnhienthi.Click += new System.EventHandler(this.btnhienthi_Click);
             // 
-            // Form1
+            // cau1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -68,7 +69,7 @@
             this.Controls.Add(this.btnhienthi);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtchieucao);
-            this.Name = "Form1";
+            this.Name = "cau1";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
